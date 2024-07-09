@@ -1,0 +1,27 @@
+[
+    {
+        "question": "¿Qué método se utiliza para agregar un elemento al final de un array en JavaScript?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "correct": "a"
+    },
+    {
+        "question": "¿Cuál de las siguientes opciones es un bucle en JavaScript?",
+        "options": ["for", "loop", "iterate", "repeat"],
+        "correct": "a"
+    },
+    {
+        "question": "¿Cómo se declara una variable en JavaScript?",
+        "options": ["var", "variable", "declare", "define"],
+        "correct": "a"
+    },
+    {
+        "question": "¿Qué función se usa para imprimir algo en la consola en JavaScript?",
+        "options": ["console.print()", "console.log()", "print.console()", "log.console()"],
+        "correct": "b"
+    },
+    {
+        "question": "¿Cuál de las siguientes opciones es una palabra clave de JavaScript para crear una función?",
+        "options": ["function", "func", "fun", "define"],
+        "correct": "a"
+    }
+]
